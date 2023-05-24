@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajay
-- 👀 I’m interested in developing softwares, apps and websites
-- 🌱 I’m currently pursuing Master's in Data Analytics
+- 👀 I’m interested in designing and developing analytics solutions 
+- 🌱 I've graduated from Dublin Business School with a Masters in Data Analytics
 - 📫 Reach me on LinkedIn : https://www.linkedin.com/in/ajay-pisharody/ 
 
 
